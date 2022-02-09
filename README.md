@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I am a educated fool**
 
-<img align="right" alt="Coding" width="390" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
