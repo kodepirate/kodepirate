@@ -2,13 +2,15 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Aniket Das</h1>
-
 <h3 align="center">A passionate developer from India</h3>
+
 
 ##  🙋 ABOUT ME
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kodepirate&label=Profile%20views&color=0e75b6&style=flat" alt="kodepirate" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aniket0fficial" target="blank"><img src="https://img.shields.io/twitter/follow/aniket0fficial?logo=twitter&style=for-the-badge" alt="aniket0fficial" /></a> </p>
+
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Flutter**
 
@@ -18,7 +20,7 @@
 
 - ⚡ Fun fact **I am a educated fool**
 
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
 
