@@ -40,3 +40,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kodepirate&show_icons=true&locale=en" alt="kodepirate" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kodepirate&show_icons=true&locale=en&layout=compact" alt="kodepirate" /></p>
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kodepirate&" alt="kodepirate" /></p> -->
