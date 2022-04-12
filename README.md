@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 </p>
-<h1 align="center">Hi 👋, I'm Aniket Das</h1>
+<h1 align="center">Hi 👋, Myself Aniket Das</h1>
 <h3 align="center">A enthusiastic developer from India</h3>
 
 
