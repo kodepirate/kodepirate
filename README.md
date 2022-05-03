@@ -51,5 +51,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kodepirate&" alt="kodepirate" /></p>
 
-![Aniket's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=kodepirate&theme=chartreuse-dark) 
+![Aniket's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kodepirate&theme=chartreuse-dark) 
 
