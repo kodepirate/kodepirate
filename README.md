@@ -52,7 +52,10 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kodepirate&show_icons=true&locale=en" alt="kodepirate"/></p>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kodepirate&show_icons=true&locale=en&layout=compact" alt="kodepirate"/></p>
+<!-- <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kodepirate&show_icons=true&locale=en&layout=compact" alt="kodepirate"/></p> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodepirate&layout=compact)](https://github.com/kodepirate/github-readme-stats)
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kodepirate&" alt="kodepirate" /></p>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kodepirate" alt="kodepirate" /></a> </p> -->
 
