@@ -54,7 +54,7 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kodepirate&show_icons=true&locale=en" alt="kodepirate"/></p> -->
 <!-- <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kodepirate&show_icons=true&locale=en&layout=compact" alt="kodepirate"/></p> -->
 
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=prussian&show_icons=true)
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=kodepirate&theme=vue-dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodepirate&theme=prussian&layout=compact)](https://github.com/kodepirate/github-readme-stats)
 
