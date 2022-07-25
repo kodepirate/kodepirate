@@ -56,7 +56,7 @@
 
 ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=kodepirate&theme=vue-dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodepirate&theme=prussian&layout=compact)](https://github.com/kodepirate/github-readme-stats)
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kodepirate&" alt="kodepirate" /></p>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kodepirate" alt="kodepirate" /></a> </p> -->
