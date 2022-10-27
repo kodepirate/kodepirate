@@ -65,6 +65,8 @@
 
 ![Aniket's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kodepirate&theme=react-dark) 
 
+<hr>
+
 [![@aniket0fficial's Holopin board](https://holopin.me/aniket0fficial)](https://holopin.io/@aniket0fficial)
 
 
