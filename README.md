@@ -65,6 +65,8 @@
 
 ![Aniket's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kodepirate&theme=react-dark) 
 
+[![@aniket0fficial's Holopin board](https://holopin.me/aniket0fficial)](https://holopin.io/@aniket0fficial)
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aniket0fficial"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aniket0fficial" /></a>
