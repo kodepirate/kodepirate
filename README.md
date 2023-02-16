@@ -63,7 +63,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kodepirate&" alt="kodepirate" /></p>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kodepirate" alt="kodepirate" /></a> </p> -->
 
-![Aniket's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kodepirate&theme=react-dark) 
+[![Aniket's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kodepirate&theme=react-dark)](https://github.com/kodepirate/github-readme-activity-graph) 
 
 <hr>
 
