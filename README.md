@@ -26,19 +26,9 @@
 
 
 <h3 align="left"><b>Conect with me:</b></h3>
-<p align="left">
-<a href="https://linkedin.com/in/aniket0fficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket0fficial" height="30" width="40" /></a>
-<a href="https://twitter.com/aniket0fficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniket0fficial" height="30" width="40" /></a>
-<!-- <a href="https://discord.gg/https://discord.gg/XteCXdSTRU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="760853625588154388" height="30" width="40" /></a>   -->
-<a href="https://www.youtube.com/channel/UC3Msqp6TnyjahFSlCcHZ-mw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc3msqp6tnyjahfslcchz-mw" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kodepirate" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kodepirate" height="30" width="40" /></a>
-  
-  <a href="https://discord.com/users/760853625588154388"> 
-  <img align="center" width="24px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg"/>
-</a>
-<a href="https://www.hackerrank.com/aniketaditya2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniketaditya2002" height="30" width="40" /></a>
- <a href="https://dev.to/kodepirate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aniketaditya2002" height="30" width="40" /></a>
-</p>
+<img
+href="https://www.linkedin.com/in/aniket0fficial/" target="_blank"
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <h3 align="left"> Languages and Tools:</h3>
 <p align="left">
