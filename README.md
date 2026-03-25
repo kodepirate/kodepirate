@@ -13,9 +13,9 @@
 
 <img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **Blockchains**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **tech related**
 
