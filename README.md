@@ -33,7 +33,7 @@
 <a href="https://x.com/Aniket0fficial" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  />
 </a>
-<a href="https://x.com/Aniket0fficial" target="_blank">
+<a href="https://www.codebyaniket.me/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
 </p>
 
